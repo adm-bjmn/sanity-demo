@@ -1,0 +1,40 @@
+next js sanity typescript tailwind app
+
+
+// ==== NEXT 13 INIT ==== //
+
+npx create-next-app
+
+cd - app-name
+
+npm run dev
+
+
+// ==== SANITY INIT ==== //
+
+npm create sanity@latest
+
+cd - app name
+
+npm run dev
+
+
+
+// ==== IN SANITY ==== //
+
+manage.sanity.io
+
+In the API tab
+Add the url to allow the https://localhost:3000 to access the data set 
+
+
+
+
+// ==== MIGRATE TO VS CODE ==== //
+
+integrate sanity into next.js 
+
+npm install sanity next-sanity
+
+
+npm install @portabletext/react
